@@ -1,0 +1,35 @@
+_repo: The-Project-Gutenberg-Works-Of-Rafael-SabatiniAn-Index_29431
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'PR'
+title: 'The Project Gutenberg Works Of Rafael Sabatini
+
+  An Index'
+url: http://www.gutenberg.org/ebooks/29431
